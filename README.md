@@ -6,9 +6,10 @@ In This, We have created an app enabling users to enter a query of the support t
 
 The search results are returned & displayed as ‘Additional Support’. Organisations identified as having Preferred Partner status will be displayed above the Additional Support organisations. Preferred Partner details will be larger & more favourably displayed.
 
+I have created the Ecosystem Connect backend, including the AI element. This includes web scraping, LLM, cleaning the data, creating the SQL database, and Flask/Fast API integration.
 
-1.	I have created the Ecosystem Connect backend, including the AI element. This includes web scraping, LLM, cleaning the data, creating the SQL database, and Flask/Fast API integration.
+All the Files and content required to build the Task are attached for reference.
 
-2.	All the Files and content required to build the Task are attached for reference.
 
-3.	
+
+	
